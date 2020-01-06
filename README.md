@@ -71,6 +71,7 @@ style - formatting, no code change <br>
 refactor - restructuring code <br>
 test - adding tests, no output change <br>
 chore - other <br>
+
 ---
 # Markdown Cheatsheet
 **bold** <br>
