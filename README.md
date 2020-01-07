@@ -1,6 +1,7 @@
 # README Cheatsheet
 ## To Do
 - create Data Analysis Project Template Jupyter Notebook file based on outline below
+- get screenshot to work
 
 
 ## Data Analysis Initial Project Setup Checklist
