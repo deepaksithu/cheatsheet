@@ -54,10 +54,10 @@ Any bugs, requests, feedback, pull requests etc. are welcome! For any major chan
 
 ## Contact
 You can get in touch with me on LinkedIn [![LinkedIn Link](https://img.shields.io/badge/Connect-deepaksithu-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
-)](https://www.linkedin.com/in/deepaksithu) 
-give me that choice follow on Github      ![GitHub followers](https://img.shields.io/github/followers/deepaksithu?style=social)
-or email me at deepaksithu@gmail.com
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+)](https://www.linkedin.com/in/deepaksithu) <br>
+give me that choice follow on Github      ![GitHub followers](https://img.shields.io/github/followers/deepaksithu?style=social)<br>
+or email me at deepaksithu@gmail.com.
+
 
 ## License
 This project uses the [MIT](https://choosealicense.com/licenses/mit/) license. 
