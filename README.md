@@ -1,10 +1,54 @@
 # README Cheatsheet
-- what steps need to be taken
-- what should the user already have installed/configured?
-- what might they have a hard time understanding immediately?
-- choosealicense.com
-- include links, code cells, and emojis
-- make README checklist and project checklist!
+## To Do
+- create Data Analysis Project Template Jupyter Notebook file based on outline below
+
+
+## Data Analysis Initial Project Setup Checklist
+- decide on project idea
+- Create Jupyter Notebook file from template
+- import libraries
+- gather data sets
+- API application if necessary
+- add `README.md` from template
+- add `LICENSE.txt` from file
+
+
+## Data Analysis Project Outline
+- Title
+	- name
+	- table of contents
+	- overview
+	- import libraries, gather datasets, and initial exploration
+- Date Wrangling
+	- Quality
+		- completeness
+		- validity
+		- accuracy
+		- consistency
+	- Tidiness
+		- column headers are variable names, not values
+		- only one variable is stored in each column
+		- variables stored only in columns or rows, not both
+		- only one type of observational unit stored in the table
+		- don't put one observational unit in multiple tables
+- Data Cleaning (Issue, Define, Code, Test)
+	- list issues
+	- copy dataframes
+	- address completeness issues
+	- address tidiness issues
+	- address remaining quality issues
+	- store dataframes
+	- finalize dataframes
+- Analysis
+	- initial exploration
+	- univariate analysis and visualizations
+	- bivariate analysis and visualizations
+	- multivariate analysis and visualizations
+	- statistical analysis
+- Conclusion
+	- explanatory visualizations
+	- conclusion
+	- limitations
 
 ## Commit Cheatsheet
 ### format:
@@ -13,6 +57,7 @@ type: subject
 body
 footer
 ```
+
 ### types:
 - `feat` - new feature <br>
 - `fix` - bug fix <br>
@@ -47,50 +92,68 @@ block of code
 [ ] empty item in task list <br>
 [x] checked item in task list
 
-## README Format
-- **Project title** - WHAT of project
-- **Table of Contents** - for README itself if necessary
-- **General Info** - decription of creation, maintenance, and WHY of project
-- **Tech/Framework Used** - programs/API used
-- **Installation** - libraries and files needed to run
-- **Code Example** - concisely show HOW of project
-- **Features** - what makes this project stand out
-- **How to Use** - guide to using project
-- **Contribute** - let people know how to contribute 
-- **To-Do** - what needs work 
-- **Credits** - give credits to anyone, anywhere, inspiration
-- **License** - choosealicense.com 
-- **Contact** - email and LinkedIn
-
 ## README Template
 
-# :clipboard: Project Title -  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/deepaksithu/Investigate_a_Dataset_Project/master?filepath=investigate-a-dataset-project.ipynb)
-The 'what' of the project is concisely described here. Note that the badge above links to an unrelated, Investigate a Dataset Project binder environment.
+# :clipboard: Project Title -  [![Binder](https://mybinder.org/badge_logo.svg)](https://www.google.com)
+Project Title is a template for a data science project README. The 'what' of the project is concisely described here. 
 
 ## Table of Contents
-
 - [Overview](#overview)
-- [Dependencies](#dependencies) 
+- [Requirements](#requirements) 
 - [Features](#features)
-- [Contribute](#contribute) 
 - [Issues](#issues) 
+- [Contribute](#contribute) 
 - [Credits](#credits)
-- [License](#license)
 - [Contact](#contact)
+- [License](#license)
+
 
 ## Overview
-Description of creation, maintenance, and WHY of project
-## Dependencies
-programs, APIs, libraries, files needed to run project and mention binder badge
+This is a more detailed description of Project Title. Go further here in explaining the purpose and process behind the creation of this project. Discuss the programs, APIs, libraries, and data sets used. Describe the structure of the data sets as well. With that context, go into the broader 'why' of the project. Then finally explain the project's current status and maintenance. 
+
+## Requirements
+_programs, APIs, libraries, files needed to run project and mention binder badge_
+List all programs, APIs, and non-csv files used in this project.
+
+This code depends on the following libraries:
+1.`pandas`
+2.`numpy`
+3.`matplotlib.pyplot`
+4.`seaborn`
+
+In addition to these, the Jupyter Notebook assumes that the data set from it's source has been downloaded, extracted, and saved as `name_of_data_file.csv`.
+
+The Binder badge above can be used to explore an executable environment for this project. Note that this template badge links to the Google homepage.
 ## Features
-more detailed description with images, code samples, etc of WHAT project does and HOW it does that and more broader applications as to WHY
-## Contribute
-let people know how to contribute
+Here is where a more comprehensive summary of the findings of the project go. First reiterate 'what' the project does, then go into detail about 'how' it does that.
+```
+include code samples when relevant
+```
+![alt text]("Annotation%202020-01-07%20105829.png?raw=true" "Also include screen snips, with alt text and optional titles")
+
+Finally, complete this section with another, more contextualized explanation of the broader 'why' of the project, as well as limitations and further possibilities for it.
+
 ## Issues
-what needs work
+
+- this is a list of issues
+- and bugs in the project
+- as well as a to-do list
+- for what needs to be done
+- and what steps need to be taken
+
+## Contribute
+Any bugs, requests, feedback, pull requests etc. are welcome! For any major changes, please open an issue first to discuss your ideas.
+
 ## Credits
-give credits to anyone, anywhere, inspiration
-## License
-choosealicense.com
+- here's where any people who have contributed to this project are mentioned
+- as well as any other sources which deserve credit
+
 ## Contact
-email and Linkedin
+You can get in touch with me on LinkedIn [![LinkedIn Link](https://img.shields.io/badge/Connect-deepaksithu-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
+)](https://www.linkedin.com/in/deepaksithu) 
+give me that choice follow on Github      ![GitHub followers](https://img.shields.io/github/followers/deepaksithu?style=social)
+or email me at deepaksithu@gmail.com
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+## License
+This project uses the [MIT](https://choosealicense.com/licenses/mit/) license. 
