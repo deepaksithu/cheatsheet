@@ -130,7 +130,7 @@ Here is where a more comprehensive summary of the findings of the project go. Fi
 ```
 include code samples when relevant
 ```
-![alt text]("Annotation%202020-01-07%20105829.png?raw=true" "Also include screen snips, with alt text and optional titles")
+![alt_text](/Annotation105829.png?raw=true "and images/screenshots")
 
 Finally, complete this section with another, more contextualized explanation of the broader 'why' of the project, as well as limitations and further possibilities for it.
 
