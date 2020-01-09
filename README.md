@@ -46,7 +46,7 @@
 	- statistical analysis
 - Conclusion
 	- explanatory visualizations
-	- conclusion
+	- conclusions
 	- limitations
 
 ## Commit Cheatsheet
@@ -78,7 +78,7 @@ _italics_ <br>
 block of code
 ```
 [text that's a link](https://www.google.com/) <br>
-[text to a relative link](docs/CONTRIBUTING.md)
+[text to a relative link](/LICENSE.txt)
 - an unordered list
   - nested list
 * another unordered list
@@ -88,8 +88,8 @@ block of code
    - nested list
      - nested list
 
-[ ] empty item in task list <br>
-[x] checked item in task list
+- [ ] empty item in task list <br>
+- [x] checked item in task list
 
 ## README Template
 
@@ -111,14 +111,13 @@ Project Title is a template for a data science project README. The 'what' of the
 This is a more detailed description of Project Title. Go further here in explaining the purpose and process behind the creation of this project. Discuss the programs, APIs, libraries, and data sets used. Describe the structure of the data sets as well. With that context, go into the broader 'why' of the project. Then finally explain the project's current status and maintenance. 
 
 ## Requirements
-_programs, APIs, libraries, files needed to run project and mention binder badge_
 List all programs, APIs, and non-csv files used in this project.
 
 This code depends on the following libraries:
-1.`pandas`
-2.`numpy`
-3.`matplotlib.pyplot`
-4.`seaborn`
+1. `pandas`
+2. `numpy`
+3. `matplotlib.pyplot`
+4. `seaborn`
 
 In addition to these, the Jupyter Notebook assumes that the data set from it's source has been downloaded, extracted, and saved as `name_of_data_file.csv`.
 
