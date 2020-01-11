@@ -1,6 +1,4 @@
 # README Cheatsheet
-## To Do
-- create Data Analysis Project Template Jupyter Notebook file based on outline below
 
 ## Data Analysis Initial Project Setup Checklist
 - decide on project idea
@@ -11,12 +9,11 @@
 - add `README.md` from template
 - add `LICENSE.txt` from file
 
-
 ## Data Analysis Project Outline
 - Title
 	- name
 	- table of contents
-	- overview
+- Overview
 	- import libraries, gather datasets, and initial exploration
 - Date Wrangling
 	- Quality
