@@ -15,7 +15,7 @@
 	- table of contents
 - Overview
 	- import libraries, gather datasets, and initial exploration
-- Date Wrangling
+- Data Wrangling
 	- Quality
 		- completeness
 		- validity
