@@ -20,10 +20,10 @@ _programs, APIs, libraries, files needed to run project and mention binder badge
 List all programs, APIs, and non-csv files used in this project.
 
 This code depends on the following libraries:
-1.`pandas`
-2.`numpy`
-3.`matplotlib.pyplot`
-4.`seaborn`
+1. `pandas`
+2. `numpy`
+3. `matplotlib.pyplot`
+4. `seaborn`
 
 In addition to these, the Jupyter Notebook assumes that the data set from it's source has been downloaded, extracted, and saved as `name_of_data_file.csv`.
 
