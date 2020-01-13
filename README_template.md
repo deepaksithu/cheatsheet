@@ -1,4 +1,4 @@
-﻿# :clipboard: Project Title -  [![Binder](https://mybinder.org/badge_logo.svg)](https://www.google.com)
+# :clipboard: Project Title -  [![Binder](https://mybinder.org/badge_logo.svg)](https://www.google.com)
 Project Title is a template for a data science project README. The 'what' of the project is concisely described here. 
 
 ## Table of Contents
@@ -16,7 +16,6 @@ Project Title is a template for a data science project README. The 'what' of the
 This is a more detailed description of Project Title. Go further here in explaining the purpose and process behind the creation of this project. Discuss the programs, APIs, libraries, and data sets used. Describe the structure of the data sets as well. With that context, go into the broader 'why' of the project. Then finally explain the project's current status and maintenance. 
 
 ## Requirements
-_programs, APIs, libraries, files needed to run project and mention binder badge_
 List all programs, APIs, and non-csv files used in this project.
 
 This code depends on the following libraries:
@@ -33,7 +32,7 @@ Here is where a more comprehensive summary of the findings of the project go. Fi
 ```
 include code samples when relevant
 ```
-![alt text]("Annotation%202020-01-07%20105829.png?raw=true" "Also include screen snips, with alt text and optional titles")
+![alt_text](/Annotation105829.png?raw=true "and images/screenshots")
 
 Finally, complete this section with another, more contextualized explanation of the broader 'why' of the project, as well as limitations and further possibilities for it.
 
@@ -58,8 +57,5 @@ You can get in touch with me on LinkedIn [![LinkedIn Link](https://img.shields.i
 give me that choice follow on Github      ![GitHub followers](https://img.shields.io/github/followers/deepaksithu?style=social)<br>
 or email me at deepaksithu@gmail.com.
 
-
 ## License
 This project uses the [MIT](https://choosealicense.com/licenses/mit/) license. 
-
-
