@@ -1,5 +1,5 @@
 # :clipboard: Project Title -  [![Binder](https://mybinder.org/badge_logo.svg)](https://www.google.com)
-Project Title is a template for a data science project README. The 'what' of the project is concisely described here. 
+_Project Title is a template for a data science project README. The 'what' of the project is concisely described here._ 
 
 ## Table of Contents
 - [Overview](#overview)
@@ -13,10 +13,10 @@ Project Title is a template for a data science project README. The 'what' of the
 
 
 ## Overview
-This is a more detailed description of Project Title. Go further here in explaining the purpose and process behind the creation of this project. Discuss the programs, APIs, libraries, and data sets used. Describe the structure of the data sets as well. With that context, go into the broader 'why' of the project. Then finally explain the project's current status and maintenance. 
+_This is a more detailed description of Project Title. Go further here in explaining the purpose and process behind the creation of this project. Discuss the programs, APIs, libraries, and data sets used. Describe the structure of the data sets as well. With that context, go into the broader 'why' of the project. Then finally explain the project's current status and maintenance._
 
 ## Requirements
-List all programs, APIs, and non-csv files used in this project.
+_List all programs, APIs, and non-csv files used in this project._
 
 This code depends on the following libraries:
 1. `pandas`
@@ -26,30 +26,30 @@ This code depends on the following libraries:
 
 In addition to these, the Jupyter Notebook assumes that the data set from it's source has been downloaded, extracted, and saved as `name_of_data_file.csv`.
 
-The Binder badge above can be used to explore an executable environment for this project. **Note that this template badge links to the Google homepage.**
+The Binder badge above can be used to explore an executable environment for this project. _Note that this template badge links to the Google homepage._
+
 ## Features
-Here is where a more comprehensive summary of the findings of the project go. First reiterate 'what' the project does, then go into detail about 'how' it does that.
+_Here is where a more comprehensive summary of the findings of the project go. First reiterate 'what' the project does, then go into detail about 'how' it does that._
 ```
 include code samples when relevant
 ```
 ![alt_text](/Annotation105829.png?raw=true "and images/screenshots")
 
-Finally, complete this section with another, more contextualized explanation of the broader 'why' of the project, as well as limitations and further possibilities for it.
+_Finally, complete this section with another, more contextualized explanation of the broader 'why' of the project, as well as limitations and further possibilities for it._
 
 ## Issues
-
-- this is a list of issues
-- and bugs in the project
-- as well as a to-do list
-- for what needs to be done
-- and what steps need to be taken
+- _this is a list of issues_
+- _and bugs in the project_
+- _as well as a to-do list_
+- _for what needs to be done_
+- _and what steps need to be taken_
 
 ## Contribute
 Any bugs, requests, feedback, pull requests etc. are welcome! For any major changes, please open an issue first to discuss your ideas.
 
 ## Credits
-- here's where any people who have contributed to this project are mentioned
-- as well as any other sources which deserve credit
+- _here's where any people who have contributed to this project are mentioned_
+- _as well as any other sources which deserve credit_
 
 ## Contact
 You can get in touch with me on LinkedIn [![LinkedIn Link](https://img.shields.io/badge/Connect-deepaksithu-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
