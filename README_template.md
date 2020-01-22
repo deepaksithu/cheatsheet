@@ -26,7 +26,7 @@ This code depends on the following libraries:
 
 In addition to these, the Jupyter Notebook assumes that the data set from it's source has been downloaded, extracted, and saved as `name_of_data_file.csv`.
 
-The Binder badge above can be used to explore an executable environment for this project. Note that this template badge links to the Google homepage.
+The Binder badge above can be used to explore an executable environment for this project. **Note that this template badge links to the Google homepage.**
 ## Features
 Here is where a more comprehensive summary of the findings of the project go. First reiterate 'what' the project does, then go into detail about 'how' it does that.
 ```
